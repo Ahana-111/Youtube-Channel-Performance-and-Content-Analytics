@@ -35,7 +35,7 @@ The original dataset (video_id_info.csv) is not included in this repository beca
 
 The dataset contains YouTube comment information, including video IDs, comment text, likes, and replies. The sample datasets provided in this repository are for reference only.
 
-To run the notebook, download the dataset separately and place it in the project folder.
+To run the notebook, download video_id_info.csv separately and place it in the same folder as Youtube.ipynb. Also, download the additional country-specific files and place them inside the YT_additional_data folder.
 
 The project also uses additional country-specific CSV files and the "US_category_id.json" file stored in the "YT_additional_data" folder for category-based analysis. These files are required to reproduce the category and channel analysis. They are not included in this repository.
  
