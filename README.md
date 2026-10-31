@@ -33,8 +33,10 @@ This project uses Python to explore and analyze YouTube data. It focuses on unde
 
 The original dataset (video_id_info.csv) is not included in this repository because it exceeds GitHub's 25 MB browser-upload limit.
 
+The dataset contains YouTube comment information, including video IDs, comment text, likes, and replies. The sample datasets provided in this repository are for reference only.
+
 To run the notebook, download the dataset separately and place it in the project folder.
-- 
+ 
 
 ## Analysis Workflow
 
