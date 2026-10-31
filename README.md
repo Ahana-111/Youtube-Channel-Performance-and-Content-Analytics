@@ -52,18 +52,21 @@ Perform sentiment analysis using TextBlob.
 Classify comments as positive, negative, or neutral.
 Visualize the analysis results.
 
-
 ## How to Run the Project
 
-Install Python on your computer.
-Install Jupyter Notebook.
-Install the required libraries:
-pip install pandas numpy seaborn matplotlib textblob
-Download or clone this repository.
-Download the original dataset separately.
-Place video_id_info.csv in the project folder, alongside Youtube.ipynb.
-Open Jupyter Notebook and run Youtube.ipynb cell by cell.
-Note: Make sure the dataset
-Project Status
+1. Install Python on your computer.
+2. Install Jupyter Notebook.
+3. Install the required libraries:
+ 
+pip install pandas numpy seaborn matplotlib textblob wordcloud emoji==2.10.1 plotly
 
-Data exploration and sentiment analysis are part of this project. Further analysis and visualizations will be added as the project develops.
+4. Download or clone this repository.
+5. Download the original "video_id_info.csv" dataset separately and place it in the same folder as "Youtube.ipynb".
+6. Download the additional country-specific CSV and JSON files and place them inside the "YT_additional_data" folder.
+7. Open Jupyter Notebook and run "Youtube.ipynb" cell by cell.
+
+Note: Make sure the dataset files are placed in the correct folders before running the notebook.
+
+## Project Status
+
+The exploratory data analysis, sentiment analysis, emoji analysis, and visualizations have been completed.
