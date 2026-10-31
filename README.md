@@ -52,6 +52,15 @@ Perform sentiment analysis using TextBlob.
 Classify comments as positive, negative, or neutral.
 Visualize the analysis results.
 
+## Key Findings & Insights
+
+1. Views and Likes: A strong positive correlation of approximately 0.78 was observed between video views and likes.
+2. Channel Performance: The Late Show with Stephen Colbert had the highest number of trending videos in the analyzed dataset, with 710 videos.
+3. Audience Engagement: Like rate, dislike rate, and comment count rate were analyzed to understand audience interaction.
+4. Category Analysis: Likes and engagement patterns were compared across different YouTube video categories.
+5. Sentiment Analysis: TextBlob was used to analyze YouTube comments, and positive and negative comment word clouds were generated.
+6. Emoji Analysis: Frequently used emojis in YouTube comments were identified and visualized.
+
 ## How to Run the Project
 
 1. Install Python on your computer.
